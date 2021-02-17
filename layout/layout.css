@@ -40,7 +40,7 @@ li{
 	display: grid;
 	grid-template-columns: 3fr 3fr 3fr;
 	grid-gap: 20vh;
-	margin:10px;
+	margin:20px;
    
     
 }
@@ -52,7 +52,7 @@ li{
 	text-align: center;
 }
 img{
-width: 100%;
+width: 50%;
 transition: 0.5s;
 padding: 10px;
 }
